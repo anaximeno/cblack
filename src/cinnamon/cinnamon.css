@@ -201,10 +201,10 @@ StScrollView StScrollBar {
   box-shadow: -1px 0px 0px 0px #141414; }
 
 .panel-top {
-  box-shadow: 0px 1px 0px 0px #141414; }
+  box-shadow: 0px -1px 0px 0px #141414; }
 
 .panel-bottom {
-  box-shadow: 0px -1px 0px 0px #141414; }
+  box-shadow: 0px 1px 0px 0px #141414; }
 
 .panel-dummy {
   background-color: rgba(47, 47, 47, 0.4); }
